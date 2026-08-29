@@ -1,0 +1,295 @@
+update_reference_id,blood_bank_name,district,state,blood_group,component,units,source,data_origin,is_demo_data,reported_at
+UPD-000213,KMC Speciality Hospitals Blood Bank ( Kaveri Hospitals),TIRUCHIRAPPALLI,Tamil Nadu,AB-,Whole Blood,38,pwa,synthetic_demo,true,2026-08-27 01:41:58
+UPD-000134,"Dr B R Ambedkar Memorial Hospital, Model Blood Bank",RAIPUR,Chhattisgarh,A-,Plasma,22,pwa,synthetic_demo,true,2026-08-27 06:36:33
+UPD-000260,K. V. G Medical College Hospital Blood Bank,DAKSHINA KANNADA,Karnataka,A+,Packed Red Cells,20,pwa,synthetic_demo,true,2026-08-26 15:33:47
+UPD-000058,bilasa blood bank rajnandgaon,RAJNANDGAON,Chhattisgarh,O+,Plasma,12,pwa,synthetic_demo,true,2026-08-26 15:31:49
+UPD-000048,Dhanwantri Blood Bank,JALGAON,Maharashtra,B+,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-26 23:41:16
+UPD-000110,Revathy Medical Centre Blood Bank,TIRUPPUR,Tamil Nadu,A+,Packed Red Cells,19,pwa,synthetic_demo,true,2026-08-26 16:58:16
+UPD-000183,Rotary Mysore Chandrakala Hospital Blood Bank,Mysore,Karnataka,AB+,Packed Red Cells,18,pwa,synthetic_demo,true,2026-08-27 00:34:11
+UPD-000182,Neyveli Lignite Corporation,CUDDALORE,Tamil Nadu,B+,Packed Red Cells,31,pwa,synthetic_demo,true,2026-08-26 21:59:52
+UPD-000252,West Siang District Hospital Blood Bank,WEST SIANG,Arunachal Pradesh,O-,Plasma,40,pwa,synthetic_demo,true,2026-08-27 05:39:33
+UPD-000123,Silchar Medical College and Hospital Blood Bank,CACHAR,Assam,A+,Plasma,45,sms,synthetic_demo,true,2026-08-27 06:32:23
+UPD-000157,Mahatma Gandhi Seva Mandir Blood Bank,MUMBAI,Maharashtra,B-,Packed Red Cells,40,pwa,synthetic_demo,true,2026-08-27 04:02:15
+UPD-000179,Sudiksha Prabhu Hospital Blood Bank and Research Centre,Thoothukudi (TUTICORIN),Tamil Nadu,O+,Whole Blood,9,pwa,synthetic_demo,true,2026-08-26 23:37:23
+UPD-000277,Medical College Hospital Blood Bank,THRISSUR,Kerala,A-,Packed Red Cells,32,pwa,synthetic_demo,true,2026-08-21 19:15:50
+UPD-000235,Ashok Blood Bank and Clinical Laboratory,DHARMAPURI,Tamil Nadu,AB-,Packed Red Cells,40,pwa,synthetic_demo,true,2026-08-26 20:13:05
+UPD-000223,Gurjar Hospital and Endoscopy Centre Private Limited Blood Bank,INDORE,Madhya Pradesh,AB-,Platelets,26,pwa,synthetic_demo,true,2026-08-27 00:59:45
+UPD-000098,Kasturba Hospital Blood Bank,DINDIGUL,Tamil Nadu,O-,Platelets,39,sms,synthetic_demo,true,2026-08-26 20:05:11
+UPD-000193,District Hospital Blood Bank,UNNAO,Uttar Pradesh,AB-,Whole Blood,18,pwa,synthetic_demo,true,2026-08-27 06:00:41
+UPD-000079,JNIMS Hospital Blood Bank and Transfusion Unit,IMPHAL EAST,Manipur,A-,Whole Blood,7,pwa,synthetic_demo,true,2026-08-26 21:39:12
+UPD-000050,Geetanjali Medical College and Hospital Blood Bank,UDAIPUR,Rajasthan,A+,Whole Blood,12,pwa,synthetic_demo,true,2026-08-27 08:00:02
+UPD-000056,bilasa blood bank rajnandgaon,RAJNANDGAON,Chhattisgarh,B-,Plasma,14,pwa,synthetic_demo,true,2026-08-26 14:54:59
+UPD-000192,Continental Hospital Blood Bank,RANGAREDDY,Telangana,AB+,Whole Blood,4,pwa,synthetic_demo,true,2026-08-27 09:16:56
+UPD-000124,Government Medical College and Hospital Blood Bank,JALAUN,Uttar Pradesh,AB-,Platelets,21,pwa,synthetic_demo,true,2026-08-26 17:20:10
+UPD-000230,M/s Sunflag Hospital and Research Centre Blood Bank,FARIDABAD,Haryana,O+,Plasma,2,sms,synthetic_demo,true,2026-08-27 07:53:26
+UPD-000240,Mohit Blood Bank Services,INDORE,Madhya Pradesh,B+,Plasma,15,pwa,synthetic_demo,true,2026-08-26 19:13:20
+UPD-000251,West Siang District Hospital Blood Bank,WEST SIANG,Arunachal Pradesh,AB+,Platelets,42,pwa,synthetic_demo,true,2026-08-27 08:45:09
+UPD-000075,Siventhi Blood Bank (Siventhi Medical Trust),Kanyakumari,Tamil Nadu,B+,Whole Blood,21,pwa,synthetic_demo,true,2026-08-27 04:42:43
+UPD-000178,Sudiksha Prabhu Hospital Blood Bank and Research Centre,Thoothukudi (TUTICORIN),Tamil Nadu,AB+,Whole Blood,10,pwa,synthetic_demo,true,2026-08-27 07:00:37
+UPD-000185,Velammal Medical College Hospital and Reserach Institute Blood Bank,MADURAI,Tamil Nadu,O-,Packed Red Cells,26,pwa,synthetic_demo,true,2026-08-26 15:09:12
+UPD-000004,Jeevan Dhara Blood Bank,FIROZABAD,Uttar Pradesh,O+,Platelets,2,pwa,synthetic_demo,true,2026-08-27 11:01:18
+UPD-000051,B.R. Singh Hospital Blood Bank,KOLKATA,West Bengal,O+,Platelets,15,pwa,synthetic_demo,true,2026-08-26 21:33:18
+UPD-000060,Indian Red Cross Society - Sarjubai Bansila Bajaj Blood Bank,SOLAPUR,Maharashtra,B+,Packed Red Cells,40,pwa,synthetic_demo,true,2026-08-26 20:04:57
+UPD-000238,Al-Ameen Medical College Hospital Blood Bank,Bijapur,Karnataka,O+,Packed Red Cells,36,pwa,synthetic_demo,true,2026-08-26 14:43:11
+UPD-000088,Sadar Hospital Muzaffarpur Blood Bank,MUZAFFARPUR,Bihar,B-,Whole Blood,0,sms,synthetic_demo,true,2026-08-26 18:07:08
+UPD-000144,Indian Red Cross Society Blood bank RCH -II KADIRI,ANANTAPUR,Andhra Pradesh,A+,Plasma,0,pwa,synthetic_demo,true,2026-08-27 06:54:11
+UPD-000076,"Odisha Red Cross Blood Bank, SDH, Titlagarh",BALANGIR,Odisha,O-,Whole Blood,14,pwa,synthetic_demo,true,2026-08-27 05:21:28
+UPD-000137,Share Medical Care (Mediciti Hospital) Blood Bank,HYDERABAD,Telangana,AB-,Packed Red Cells,25,pwa,synthetic_demo,true,2026-08-26 14:55:45
+UPD-000283,Vaidhya Blood Bank,THANE,Maharashtra,AB-,Packed Red Cells,43,pwa,synthetic_demo,true,2026-08-20 13:20:35
+UPD-000125,Government Medical College and Hospital Blood Bank,JALAUN,Uttar Pradesh,B-,Plasma,31,pwa,synthetic_demo,true,2026-08-27 00:31:08
+UPD-000176,Mission Jan Jagriti Blood Bank,NORTH EAST DELHI,Delhi,B+,Plasma,36,pwa,synthetic_demo,true,2026-08-27 03:19:48
+UPD-000246,J.D.C. Bytco Hospital Blood Bank,NASHIK,Maharashtra,A-,Platelets,28,pwa,synthetic_demo,true,2026-08-26 20:30:39
+UPD-000022,District Hospital Blood Bank Mamit,MAMIT,Mizoram,B+,Packed Red Cells,43,sms,synthetic_demo,true,2026-08-27 04:24:14
+UPD-000001,Sahada Blood Bank - Shree Swami  Samartha Vaidyakiya  Shaikshanik and Sanshodhan Sanstha,NANDURBAR,Maharashtra,AB-,Whole Blood,2,pwa,synthetic_demo,true,2026-08-27 07:32:03
+UPD-000062,Government Hospital Blood Bank,PUDUKKOTTAI,Tamil Nadu,A-,Platelets,32,pwa,synthetic_demo,true,2026-08-26 13:01:54
+UPD-000241,Columbia Asia Referral Hospital Blood Bank,BENGALURU URBAN,Karnataka,O-,Packed Red Cells,28,pwa,synthetic_demo,true,2026-08-27 09:37:43
+UPD-000077,General Hospital Surendranagar Blood Bank,SURENDRANAGAR,Gujarat,B-,Packed Red Cells,36,pwa,synthetic_demo,true,2026-08-27 07:24:21
+UPD-000249,Sub Divisional Hospital Blood Bank Islampur,Uttar Dinajpur,West Bengal,A+,Plasma,2,pwa,synthetic_demo,true,2026-08-26 16:24:55
+UPD-000114,Holy Cross Hospital Blood Bank,CHAMARAJANAGAR,Karnataka,O+,Platelets,29,pwa,synthetic_demo,true,2026-08-27 04:21:12
+UPD-000074,Hind Blood Bank And Component Center,SITAPUR,Uttar Pradesh,AB+,Platelets,27,pwa,synthetic_demo,true,2026-08-26 18:16:56
+UPD-000021,District Hospital Blood Bank Mamit,MAMIT,Mizoram,AB-,Plasma,26,sms,synthetic_demo,true,2026-08-27 02:53:33
+UPD-000041,Saharia&#39;s Path Lab & Blood Bank,KAMRUP,Assam,B+,Platelets,19,sms,synthetic_demo,true,2026-08-26 20:23:44
+UPD-000035,M/s. A.P.V.V.P Area Hospital Blood Bank,EAST GODAVARI,Andhra Pradesh,O-,Whole Blood,22,pwa,synthetic_demo,true,2026-08-27 00:08:37
+UPD-000143,CANCER INSTITUTE HOSPITAL BLOOD BANK,CHENNAI,Tamil Nadu,O+,Plasma,40,sms,synthetic_demo,true,2026-08-26 18:48:44
+UPD-000042,Saharia&#39;s Path Lab & Blood Bank,KAMRUP,Assam,O+,Plasma,19,sms,synthetic_demo,true,2026-08-26 16:21:27
+UPD-000255,Manas Serological Institute Blood Bank,MUMBAI,Maharashtra,O-,Plasma,30,pwa,synthetic_demo,true,2026-08-26 18:12:48
+UPD-000177,Khanna Civil Hospital Blood Bank,LUDHIANA,Punjab,A-,Packed Red Cells,2,pwa,synthetic_demo,true,2026-08-27 02:25:25
+UPD-000154,Modern Pathology and Blood Bank,GHAZIABAD,Uttar Pradesh,A-,Plasma,39,pwa,synthetic_demo,true,2026-08-27 08:04:37
+UPD-000225,Vadamalayan Hospital Blood Bank,MADURAI,Tamil Nadu,B+,Packed Red Cells,33,pwa,synthetic_demo,true,2026-08-26 18:44:19
+UPD-000082,District Hospital Blood Bank,BHIND,Madhya Pradesh,O+,Platelets,35,pwa,synthetic_demo,true,2026-08-26 23:20:20
+UPD-000212,KMC Speciality Hospitals Blood Bank ( Kaveri Hospitals),TIRUCHIRAPPALLI,Tamil Nadu,O+,Plasma,38,pwa,synthetic_demo,true,2026-08-26 17:57:28
+UPD-000101,Kasturba Gandhi Hospital Blood Bank,BARDHAMAN,West Bengal,O+,Platelets,27,pwa,synthetic_demo,true,2026-08-27 10:53:40
+UPD-000093,District Combined Hospital Blood Bank,AMROHA,Uttar Pradesh,B-,Whole Blood,3,pwa,synthetic_demo,true,2026-08-26 21:27:15
+UPD-000195,Diu District Blood Bank,DIU,Daman and Diu,AB+,Plasma,2,pwa,synthetic_demo,true,2026-08-27 04:36:35
+UPD-000207,"Odisha Red Cross Blood Bank, Dhenkanal",DHENKANAL,Odisha,AB+,Whole Blood,10,pwa,synthetic_demo,true,2026-08-27 05:05:02
+UPD-000234,Shri Krishna Blood Bank,OSMANABAD,Maharashtra,AB-,Plasma,25,pwa,synthetic_demo,true,2026-08-27 06:40:29
+UPD-000054,Aishwarya Blood Bank,YAVATMAL,Maharashtra,A+,Packed Red Cells,33,sms,synthetic_demo,true,2026-08-26 21:38:40
+UPD-000016,Military Hospital Blood Bank,DIMAPUR,Nagaland,B+,Plasma,21,pwa,synthetic_demo,true,2026-08-26 20:39:00
+UPD-000256,Valluvanad Hospital Blood Bank,PALAKKAD,Kerala,B-,Platelets,27,pwa,synthetic_demo,true,2026-08-26 17:24:20
+UPD-000029,M/s. Al-Azhar Medical College & Super Speciality Hospital Blood Bank,IDUKKI,Kerala,AB-,Whole Blood,11,pwa,synthetic_demo,true,2026-08-27 06:24:17
+UPD-000180,Neyveli Lignite Corporation,CUDDALORE,Tamil Nadu,AB+,Plasma,16,pwa,synthetic_demo,true,2026-08-27 06:00:25
+UPD-000272,Cooch Behar Municipality Hospital Blood Bank,Cooch Behar,West Bengal,O-,Platelets,23,sms,synthetic_demo,true,2026-08-21 18:07:26
+UPD-000043,Saharia&#39;s Path Lab & Blood Bank,KAMRUP,Assam,AB+,Platelets,36,pwa,synthetic_demo,true,2026-08-27 00:18:10
+UPD-000217,Indira Gandhi Hospital Blood Bank,LAKSHADWEEP DISTRICT,Lakshadweep,AB-,Platelets,9,sms,synthetic_demo,true,2026-08-26 21:48:47
+UPD-000023,Miraj Medical Centre - Wanless Hospital Blood Bank,SANGLI,Maharashtra,O-,Whole Blood,17,pwa,synthetic_demo,true,2026-08-26 15:51:40
+UPD-000172,Hayat Hospital Blood Bank,KAMRUP,Assam,A-,Platelets,17,pwa,synthetic_demo,true,2026-08-27 01:04:54
+UPD-000020,Changlang District Hospital Blood Bank,CHANGLANG,Arunachal Pradesh,A-,Whole Blood,17,pwa,synthetic_demo,true,2026-08-26 17:00:29
+UPD-000196,Diu District Blood Bank,DIU,Daman and Diu,A-,Platelets,19,pwa,synthetic_demo,true,2026-08-27 04:12:07
+UPD-000262,Gandhi Lincon Hospital Blood Bank,Banaskantha,Gujarat,O+,Plasma,41,sms,synthetic_demo,true,2026-08-27 00:56:31
+UPD-000008,Indian Red Cross Society Blood Bank Chikkaballapur,Chikkaballapur,Karnataka,AB+,Packed Red Cells,1,sms,synthetic_demo,true,2026-08-26 16:04:18
+UPD-000064,Government Head Quarters Hospital Blood Bank,CUDDALORE,Tamil Nadu,AB-,Plasma,7,pwa,synthetic_demo,true,2026-08-27 06:54:42
+UPD-000222,B.M. Birla Heart Research Centre Blood Bank,KOLKATA,West Bengal,A-,Plasma,24,pwa,synthetic_demo,true,2026-08-27 05:45:58
+UPD-000279,Krantiveer Chapekar Bandhu Blood Bank,PUNE,Maharashtra,B+,Plasma,36,pwa,synthetic_demo,true,2026-08-20 13:59:30
+UPD-000204,PSG Hospital Blood Bank,COIMBATORE,Tamil Nadu,B-,Platelets,11,pwa,synthetic_demo,true,2026-08-26 20:29:30
+UPD-000261,McGann Hospital Blood Bank,SHIVAMOGGA,Karnataka,A+,Platelets,20,sms,synthetic_demo,true,2026-08-26 15:26:07
+UPD-000229,"Sardar Patel voulantary Blood Bank, Keshod",JUNAGADH,Gujarat,AB+,Plasma,26,pwa,synthetic_demo,true,2026-08-27 01:06:53
+UPD-000133,MP Thelasmia Kid Care Society Blood Bank,BHOPAL,Madhya Pradesh,A+,Whole Blood,37,pwa,synthetic_demo,true,2026-08-27 00:40:32
+UPD-000010,R.G.M Hospital Blood Bank Unakoti,Unakoti,Tripura,A+,Whole Blood,5,pwa,synthetic_demo,true,2026-08-26 21:06:48
+UPD-000031,"National Blood Bank, Kharab Hospital Blood Bank",HISAR,Haryana,B-,Plasma,28,pwa,synthetic_demo,true,2026-08-27 01:17:43
+UPD-000173,Hayat Hospital Blood Bank,KAMRUP,Assam,AB+,Packed Red Cells,8,sms,synthetic_demo,true,2026-08-27 06:07:50
+UPD-000036,M/s. A.P.V.V.P Area Hospital Blood Bank,EAST GODAVARI,Andhra Pradesh,B+,Packed Red Cells,21,pwa,synthetic_demo,true,2026-08-26 23:07:05
+UPD-000119,Cauvery Hospital Blood Bank,Mysore,Karnataka,A+,Whole Blood,34,pwa,synthetic_demo,true,2026-08-27 07:55:46
+UPD-000026,Chamba Regional Hospital Blood Bank,CHAMBA,Himachal Pradesh,B+,Whole Blood,40,pwa,synthetic_demo,true,2026-08-27 08:54:20
+UPD-000167,Haryana Institute of Medical Sciences (HIMS) Hospital Blood Bank,KAITHAL,Haryana,A+,Whole Blood,39,pwa,synthetic_demo,true,2026-08-26 19:26:51
+UPD-000002,Sahada Blood Bank - Shree Swami  Samartha Vaidyakiya  Shaikshanik and Sanshodhan Sanstha,NANDURBAR,Maharashtra,A-,Plasma,5,pwa,synthetic_demo,true,2026-08-27 03:21:06
+UPD-000069,Hutti Gold Hospital Blood Bank,RAICHUR,Karnataka,B+,Packed Red Cells,29,pwa,synthetic_demo,true,2026-08-27 03:24:34
+UPD-000027,M/s. Al-Azhar Medical College & Super Speciality Hospital Blood Bank,IDUKKI,Kerala,O-,Plasma,12,pwa,synthetic_demo,true,2026-08-26 16:57:49
+UPD-000147,"ESI-PGIMSR, MGM Hospital Blood Bank",MUMBAI,Maharashtra,B-,Platelets,1,pwa,synthetic_demo,true,2026-08-26 17:44:24
+UPD-000220,B.M. Birla Heart Research Centre Blood Bank,KOLKATA,West Bengal,B-,Whole Blood,19,pwa,synthetic_demo,true,2026-08-27 01:55:45
+UPD-000067,District Hospital Blood Bank,NORTH GOA,Goa,AB+,Packed Red Cells,32,pwa,synthetic_demo,true,2026-08-27 03:31:19
+UPD-000106,GMERS Medical College and Hospital Blood Bank Dharpur,PATAN,Gujarat,AB-,Packed Red Cells,16,pwa,synthetic_demo,true,2026-08-27 02:43:19
+UPD-000044,Pillar Health Centre Blood Bank,SOUTH ANDAMAN,Andaman And Nicobar Islands,A-,Packed Red Cells,1,pwa,synthetic_demo,true,2026-08-26 23:23:15
+UPD-000171,District Joint Hospital,SONBHADRA,Uttar Pradesh,B-,Packed Red Cells,36,pwa,synthetic_demo,true,2026-08-27 02:06:22
+UPD-000005,Synod Hospital Blood Bank Durtlang,AIZAWL,Mizoram,A-,Platelets,20,pwa,synthetic_demo,true,2026-08-27 08:25:34
+UPD-000214,KMC Speciality Hospitals Blood Bank ( Kaveri Hospitals),TIRUCHIRAPPALLI,Tamil Nadu,O-,Platelets,45,pwa,synthetic_demo,true,2026-08-26 17:41:58
+UPD-000294,Bhota Charitable Hospital Blood Bank,HAMIRPUR,Himachal Pradesh,B-,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-25 08:08:45
+UPD-000215,Lokpriya Hospital Blood Bank,MEERUT,Uttar Pradesh,AB-,Plasma,37,pwa,synthetic_demo,true,2026-08-26 21:55:32
+UPD-000266,Government Hospital Blood Bank,KOLLAM,Kerala,B+,Platelets,19,pwa,synthetic_demo,true,2026-08-23 00:35:45
+UPD-000131,MP Thelasmia Kid Care Society Blood Bank,BHOPAL,Madhya Pradesh,O+,Packed Red Cells,19,pwa,synthetic_demo,true,2026-08-26 19:03:27
+UPD-000141,Saket City Hospital Blood Bank,SOUTH DELHI,Delhi,AB+,Packed Red Cells,15,sms,synthetic_demo,true,2026-08-26 19:27:03
+UPD-000199,Dr. Damani&#39;s Nursing Home Blood Bank,DIBRUGARH,Assam,B-,Plasma,3,pwa,synthetic_demo,true,2026-08-26 20:52:20
+UPD-000118,Raichur Institute of Medical Sciences Teaching Hospital (RIMS) Blood Bank,RAICHUR,Karnataka,O-,Plasma,11,pwa,synthetic_demo,true,2026-08-27 09:28:51
+UPD-000107,Index Medical College Hospital and Research Centre Blood Bank,INDORE,Madhya Pradesh,B+,Platelets,18,pwa,synthetic_demo,true,2026-08-26 23:09:22
+UPD-000019,Changlang District Hospital Blood Bank,CHANGLANG,Arunachal Pradesh,B-,Plasma,31,pwa,synthetic_demo,true,2026-08-27 03:36:29
+UPD-000102,Ocean Blood Bank,BENGALURU URBAN,Karnataka,B-,Platelets,4,pwa,synthetic_demo,true,2026-08-26 18:29:41
+UPD-000170,General Hospital Rewari Blood Bank,REWARI,Haryana,A-,Whole Blood,40,pwa,synthetic_demo,true,2026-08-26 20:39:45
+UPD-000150,District Hospital Blood Bank Mandla,MANDLA,Madhya Pradesh,O+,Whole Blood,35,pwa,synthetic_demo,true,2026-08-27 04:37:18
+UPD-000024,Miraj Medical Centre - Wanless Hospital Blood Bank,SANGLI,Maharashtra,A+,Platelets,36,sms,synthetic_demo,true,2026-08-27 03:31:48
+UPD-000155,Mahatma Gandhi Seva Mandir Blood Bank,MUMBAI,Maharashtra,O+,Whole Blood,16,pwa,synthetic_demo,true,2026-08-27 07:15:18
+UPD-000250,West Siang District Hospital Blood Bank,WEST SIANG,Arunachal Pradesh,A+,Platelets,42,pwa,synthetic_demo,true,2026-08-26 20:24:50
+UPD-000063,Government Hospital Blood Bank,PUDUKKOTTAI,Tamil Nadu,O-,Whole Blood,30,pwa,synthetic_demo,true,2026-08-27 09:06:39
+UPD-000145,Indian Red Cross Society Blood bank RCH -II KADIRI,ANANTAPUR,Andhra Pradesh,A-,Plasma,5,sms,synthetic_demo,true,2026-08-27 03:35:10
+UPD-000156,Mahatma Gandhi Seva Mandir Blood Bank,MUMBAI,Maharashtra,B+,Whole Blood,21,pwa,synthetic_demo,true,2026-08-27 04:31:53
+UPD-000017,Military Hospital Blood Bank,AHMEDABAD,Gujarat,B-,Packed Red Cells,42,pwa,synthetic_demo,true,2026-08-27 05:51:41
+UPD-000152,Fortis Hospital Blood Bank,LUDHIANA,Punjab,AB+,Packed Red Cells,7,pwa,synthetic_demo,true,2026-08-26 20:47:11
+UPD-000248,Sub Divisional Hospital Blood Bank Islampur,Uttar Dinajpur,West Bengal,B-,Platelets,23,pwa,synthetic_demo,true,2026-08-27 03:44:18
+UPD-000258,Valluvanad Hospital Blood Bank,PALAKKAD,Kerala,A+,Whole Blood,25,pwa,synthetic_demo,true,2026-08-27 08:47:32
+UPD-000237,Bankura Sammilani Medical College and Hospital Blood Bank,BANKURA,West Bengal,O+,Platelets,17,sms,synthetic_demo,true,2026-08-26 21:31:41
+UPD-000127,Government General Hospital Blood Bank,SIROHI,Rajasthan,B-,Packed Red Cells,34,sms,synthetic_demo,true,2026-08-26 21:05:37
+UPD-000121,Malankara Orthodox Syrian Church Medical Mission Hospital Blood Bank,ERNAKULAM,Kerala,O+,Whole Blood,21,pwa,synthetic_demo,true,2026-08-27 09:39:44
+UPD-000049,Dhanwantri Blood Bank,JALGAON,Maharashtra,AB-,Plasma,26,pwa,synthetic_demo,true,2026-08-26 21:35:50
+UPD-000081,JNIMS Hospital Blood Bank and Transfusion Unit,IMPHAL EAST,Manipur,B-,Plasma,41,pwa,synthetic_demo,true,2026-08-27 03:02:50
+UPD-000066,Government Head Quarters Hospital Blood Bank,CUDDALORE,Tamil Nadu,AB+,Plasma,43,pwa,synthetic_demo,true,2026-08-27 01:06:12
+UPD-000085,Singareni Collieries Co. Ltd,KHAMMAM,Telangana,B-,Whole Blood,27,pwa,synthetic_demo,true,2026-08-26 14:13:52
+UPD-000265,Rajiv Gandhi Institute of Medical Sciences Blood Bank,ADILABAD,Telangana,AB-,Packed Red Cells,24,pwa,synthetic_demo,true,2026-08-26 13:45:27
+UPD-000278,Krantiveer Chapekar Bandhu Blood Bank,PUNE,Maharashtra,O+,Platelets,11,pwa,synthetic_demo,true,2026-08-23 19:56:21
+UPD-000084,Singareni Collieries Co. Ltd,KHAMMAM,Telangana,A+,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-26 13:40:24
+UPD-000197,Diu District Blood Bank,DIU,Daman and Diu,B+,Packed Red Cells,13,pwa,synthetic_demo,true,2026-08-27 06:56:21
+UPD-000012,R.G.M Hospital Blood Bank Unakoti,Unakoti,Tripura,AB-,Packed Red Cells,28,sms,synthetic_demo,true,2026-08-27 01:05:27
+UPD-000073,Hind Blood Bank And Component Center,SITAPUR,Uttar Pradesh,O+,Plasma,25,pwa,synthetic_demo,true,2026-08-27 08:30:09
+UPD-000115,Holy Cross Hospital Blood Bank,CHAMARAJANAGAR,Karnataka,B-,Plasma,5,pwa,synthetic_demo,true,2026-08-27 03:21:42
+UPD-000232,Vijaya Sri Blood Bank,KRISHNA,Andhra Pradesh,AB-,Packed Red Cells,13,pwa,synthetic_demo,true,2026-08-27 02:55:28
+UPD-000263,Gandhi Lincon Hospital Blood Bank,Banaskantha,Gujarat,AB+,Platelets,23,pwa,synthetic_demo,true,2026-08-27 10:48:06
+UPD-000009,Indian Red Cross Society Blood Bank Chikkaballapur,Chikkaballapur,Karnataka,AB-,Whole Blood,39,pwa,synthetic_demo,true,2026-08-26 20:35:56
+UPD-000132,MP Thelasmia Kid Care Society Blood Bank,BHOPAL,Madhya Pradesh,B+,Plasma,11,pwa,synthetic_demo,true,2026-08-26 14:58:32
+UPD-000011,R.G.M Hospital Blood Bank Unakoti,Unakoti,Tripura,O+,Packed Red Cells,21,sms,synthetic_demo,true,2026-08-27 02:45:36
+UPD-000275,Lokmitra Blood Bank and Thalassemia Research Centre,UDAIPUR,Rajasthan,O+,Platelets,7,sms,synthetic_demo,true,2026-08-21 06:07:31
+UPD-000166,Haryana Institute of Medical Sciences (HIMS) Hospital Blood Bank,KAITHAL,Haryana,AB-,Packed Red Cells,13,pwa,synthetic_demo,true,2026-08-27 00:02:21
+UPD-000244,J.D.C. Bytco Hospital Blood Bank,NASHIK,Maharashtra,B+,Platelets,26,sms,synthetic_demo,true,2026-08-27 01:57:31
+UPD-000198,Mallya Hospital Blood Bank,BENGALURU URBAN,Karnataka,O-,Platelets,30,sms,synthetic_demo,true,2026-08-27 11:08:21
+UPD-000099,Kasturba Hospital Blood Bank,DINDIGUL,Tamil Nadu,B+,Plasma,40,pwa,synthetic_demo,true,2026-08-27 05:13:50
+UPD-000267,Sadar Hospital Lakhisarai Blood Bank,LAKHISARAI,Bihar,B+,Plasma,17,pwa,synthetic_demo,true,2026-08-24 08:34:49
+UPD-000120,Cauvery Hospital Blood Bank,Mysore,Karnataka,A-,Whole Blood,41,pwa,synthetic_demo,true,2026-08-26 16:33:43
+UPD-000112,Indian Red Cross Society Blood Bank,AMRELI,Gujarat,O-,Plasma,14,pwa,synthetic_demo,true,2026-08-27 03:26:58
+UPD-000117,Raichur Institute of Medical Sciences Teaching Hospital (RIMS) Blood Bank,RAICHUR,Karnataka,B-,Platelets,24,sms,synthetic_demo,true,2026-08-26 23:20:14
+UPD-000032,"National Blood Bank, Kharab Hospital Blood Bank",HISAR,Haryana,O-,Packed Red Cells,35,sms,synthetic_demo,true,2026-08-26 22:42:06
+UPD-000291,Kota Blood Bank Society,KOTA,Rajasthan,O+,Plasma,5,pwa,synthetic_demo,true,2026-08-23 02:08:10
+UPD-000146,"ESI-PGIMSR, MGM Hospital Blood Bank",MUMBAI,Maharashtra,A-,Packed Red Cells,5,sms,synthetic_demo,true,2026-08-26 14:00:04
+UPD-000269,Guru Tegh Bahadur Hospital Blood Bank,SHAHDARA,Delhi,O-,Platelets,22,pwa,synthetic_demo,true,2026-08-24 23:31:57
+UPD-000109,Revathy Medical Centre Blood Bank,TIRUPPUR,Tamil Nadu,O-,Whole Blood,27,pwa,synthetic_demo,true,2026-08-26 22:48:18
+UPD-000113,Indian Red Cross Society Blood Bank,AMRELI,Gujarat,B+,Platelets,7,pwa,synthetic_demo,true,2026-08-27 04:14:41
+UPD-000209,Lions Club of Guntur Vision Blood Bank,GUNTUR,Andhra Pradesh,B+,Plasma,2,sms,synthetic_demo,true,2026-08-26 21:30:25
+UPD-000162,Saroj Super Speciality Hospital  Blood Bank,NORTH WEST DELHI,Delhi,AB-,Plasma,41,pwa,synthetic_demo,true,2026-08-27 06:52:38
+UPD-000259,K. V. G Medical College Hospital Blood Bank,DAKSHINA KANNADA,Karnataka,O+,Packed Red Cells,31,pwa,synthetic_demo,true,2026-08-26 16:26:49
+UPD-000218,Indira Gandhi Hospital Blood Bank,LAKSHADWEEP DISTRICT,Lakshadweep,AB+,Packed Red Cells,27,pwa,synthetic_demo,true,2026-08-27 00:09:59
+UPD-000015,Military Hospital Blood Bank,DIMAPUR,Nagaland,A+,Platelets,9,pwa,synthetic_demo,true,2026-08-26 20:14:30
+UPD-000165,"Heavy Engineering Corporation, Plant Hospital Blood Bank",RANCHI,Jharkhand,B+,Whole Blood,16,pwa,synthetic_demo,true,2026-08-27 04:03:07
+UPD-000292,Kota Blood Bank Society,KOTA,Rajasthan,B+,Platelets,35,pwa,synthetic_demo,true,2026-08-25 05:51:08
+UPD-000163,"Heavy Engineering Corporation, Plant Hospital Blood Bank",RANCHI,Jharkhand,AB+,Packed Red Cells,39,pwa,synthetic_demo,true,2026-08-27 11:09:10
+UPD-000038,Mother Hospital Blood Bank,THRISSUR,Kerala,A-,Platelets,43,pwa,synthetic_demo,true,2026-08-26 17:46:19
+UPD-000200,Heritage Hospital,VARANASI,Uttar Pradesh,O-,Plasma,21,pwa,synthetic_demo,true,2026-08-26 19:50:27
+UPD-000135,"Dr B R Ambedkar Memorial Hospital, Model Blood Bank",RAIPUR,Chhattisgarh,AB-,Packed Red Cells,38,pwa,synthetic_demo,true,2026-08-27 00:03:22
+UPD-000092,Borivali Blood Bank (Doshi Memorial Charitable Trust),MUMBAI,Maharashtra,O+,Whole Blood,33,pwa,synthetic_demo,true,2026-08-27 09:17:03
+UPD-000293,Lok Priya Hospital Blood Bank,GHAZIABAD,Uttar Pradesh,O+,Whole Blood,0,pwa,synthetic_demo,true,2026-08-24 14:06:01
+UPD-000274,Lokmitra Blood Bank and Thalassemia Research Centre,UDAIPUR,Rajasthan,B+,Plasma,4,pwa,synthetic_demo,true,2026-08-20 13:17:59
+UPD-000242,Indian Red Cross Society Blood Bank,ADILABAD,Telangana,O+,Whole Blood,19,pwa,synthetic_demo,true,2026-08-27 02:38:08
+UPD-000174,Mission Jan Jagriti Blood Bank,NORTH EAST DELHI,Delhi,A-,Plasma,21,pwa,synthetic_demo,true,2026-08-26 21:57:58
+UPD-000188,Sri Lakshminarayana Institute of Medical Sciences Blood Bank,Puducherry,Puducherry,A-,Packed Red Cells,15,pwa,synthetic_demo,true,2026-08-27 00:11:26
+UPD-000070,Government Multispeciality Hospital Blood Bank,CHANDIGARH,Chandigarh,B-,Plasma,6,pwa,synthetic_demo,true,2026-08-26 23:58:02
+UPD-000210,H.N. Bahuguna Government Base Hospital Blood Bank,PAURI GARHWAL,Uttarakhand,A+,Whole Blood,11,pwa,synthetic_demo,true,2026-08-27 10:03:33
+UPD-000253,Shubham Sarvam Charitable Blood Bank,BIJNOR,Uttar Pradesh,AB+,Packed Red Cells,3,pwa,synthetic_demo,true,2026-08-27 00:28:37
+UPD-000284,Dr. B.L. Kapoor Memorial Hospital Blood Bank,LUDHIANA,Punjab,A-,Whole Blood,12,sms,synthetic_demo,true,2026-08-24 01:40:30
+UPD-000057,bilasa blood bank rajnandgaon,RAJNANDGAON,Chhattisgarh,AB+,Plasma,20,pwa,synthetic_demo,true,2026-08-26 21:55:46
+UPD-000122,Silchar Medical College and Hospital Blood Bank,CACHAR,Assam,A-,Plasma,6,pwa,synthetic_demo,true,2026-08-26 18:43:10
+UPD-000202,Heritage Hospital,VARANASI,Uttar Pradesh,B-,Whole Blood,45,pwa,synthetic_demo,true,2026-08-26 19:56:57
+UPD-000189,Sri Lakshminarayana Institute of Medical Sciences Blood Bank,Puducherry,Puducherry,AB-,Whole Blood,30,sms,synthetic_demo,true,2026-08-26 19:51:52
+UPD-000285,Purohit Charitable Trust Blood Bank,SRIGANGANAGAR,Rajasthan,AB+,Platelets,1,pwa,synthetic_demo,true,2026-08-21 08:04:03
+UPD-000236,Ashok Blood Bank and Clinical Laboratory,DHARMAPURI,Tamil Nadu,B-,Plasma,34,pwa,synthetic_demo,true,2026-08-27 02:53:00
+UPD-000151,District Hospital Blood Bank Mandla,MANDLA,Madhya Pradesh,B-,Whole Blood,23,pwa,synthetic_demo,true,2026-08-27 09:49:38
+UPD-000228,"Sardar Patel voulantary Blood Bank, Keshod",JUNAGADH,Gujarat,B-,Plasma,18,sms,synthetic_demo,true,2026-08-27 05:48:10
+UPD-000194,District Hospital Blood Bank Ganderbal,GANDERBAL,Jammu and Kashmir,O-,Plasma,4,pwa,synthetic_demo,true,2026-08-27 01:34:57
+UPD-000045,Pillar Health Centre Blood Bank,SOUTH ANDAMAN,Andaman And Nicobar Islands,O+,Packed Red Cells,34,sms,synthetic_demo,true,2026-08-26 17:28:33
+UPD-000201,Heritage Hospital,VARANASI,Uttar Pradesh,B+,Packed Red Cells,5,pwa,synthetic_demo,true,2026-08-27 07:41:19
+UPD-000211,H.N. Bahuguna Government Base Hospital Blood Bank,PAURI GARHWAL,Uttarakhand,B-,Platelets,42,pwa,synthetic_demo,true,2026-08-27 00:37:17
+UPD-000138,Share Medical Care (Mediciti Hospital) Blood Bank,HYDERABAD,Telangana,AB+,Whole Blood,30,pwa,synthetic_demo,true,2026-08-26 16:05:31
+UPD-000226,General Hospital Blood Bank,THIRUVANANTHAPURAM,Kerala,B-,Packed Red Cells,33,pwa,synthetic_demo,true,2026-08-27 08:18:54
+UPD-000224,Gurjar Hospital and Endoscopy Centre Private Limited Blood Bank,INDORE,Madhya Pradesh,A+,Whole Blood,8,sms,synthetic_demo,true,2026-08-27 00:29:07
+UPD-000104,Agrawal Life Line Hospital and Trauma Centre Blood Bank,MATHURA,Uttar Pradesh,O-,Platelets,31,pwa,synthetic_demo,true,2026-08-26 18:44:29
+UPD-000280,Shivam Hospital Blood Bank,HOSHIARPUR,Punjab,B+,Plasma,24,pwa,synthetic_demo,true,2026-08-22 09:27:27
+UPD-000129,Saint Josephs Hospital Blood Bank,THRISSUR,Kerala,AB+,Plasma,10,pwa,synthetic_demo,true,2026-08-26 13:12:08
+UPD-000103,Agrawal Life Line Hospital and Trauma Centre Blood Bank,MATHURA,Uttar Pradesh,B-,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-27 03:31:57
+UPD-000257,Valluvanad Hospital Blood Bank,PALAKKAD,Kerala,O+,Platelets,44,pwa,synthetic_demo,true,2026-08-26 16:18:32
+UPD-000270,Fortis Memorial Research Institute Blood Bank,GURGAON,Haryana,B-,Packed Red Cells,43,pwa,synthetic_demo,true,2026-08-24 17:13:48
+UPD-000290,Bhaskar Medical College and General Hospital Blood Bank,RANGAREDDY,Telangana,B-,Platelets,36,pwa,synthetic_demo,true,2026-08-22 15:44:23
+UPD-000219,Indira Gandhi Hospital Blood Bank,LAKSHADWEEP DISTRICT,Lakshadweep,A-,Whole Blood,4,pwa,synthetic_demo,true,2026-08-27 08:55:42
+UPD-000090,Borivali Blood Bank (Doshi Memorial Charitable Trust),MUMBAI,Maharashtra,AB+,Platelets,4,pwa,synthetic_demo,true,2026-08-26 17:33:15
+UPD-000096,Pushpawati Singhania Research Institute Blood bank,NEW DELHI,Delhi,A-,Packed Red Cells,23,sms,synthetic_demo,true,2026-08-26 17:59:44
+UPD-000245,J.D.C. Bytco Hospital Blood Bank,NASHIK,Maharashtra,A+,Plasma,33,pwa,synthetic_demo,true,2026-08-26 19:36:04
+UPD-000040,KEM Hospital Blood Bank,PUNE,Maharashtra,O+,Plasma,28,pwa,synthetic_demo,true,2026-08-26 23:39:00
+UPD-000028,M/s. Al-Azhar Medical College & Super Speciality Hospital Blood Bank,IDUKKI,Kerala,A+,Plasma,45,pwa,synthetic_demo,true,2026-08-27 11:15:27
+UPD-000089,General Hospital Blood Bank Porbandar,PORBANDAR,Gujarat,B+,Packed Red Cells,43,pwa,synthetic_demo,true,2026-08-27 02:43:33
+UPD-000046,Pillar Health Centre Blood Bank,SOUTH ANDAMAN,Andaman And Nicobar Islands,A+,Whole Blood,31,pwa,synthetic_demo,true,2026-08-27 09:24:09
+UPD-000053,B.R. Singh Hospital Blood Bank,KOLKATA,West Bengal,O-,Platelets,45,sms,synthetic_demo,true,2026-08-27 07:03:03
+UPD-000175,Mission Jan Jagriti Blood Bank,NORTH EAST DELHI,Delhi,O+,Whole Blood,18,pwa,synthetic_demo,true,2026-08-26 20:05:09
+UPD-000078,General Hospital Surendranagar Blood Bank,SURENDRANAGAR,Gujarat,O-,Packed Red Cells,32,pwa,synthetic_demo,true,2026-08-26 13:00:09
+UPD-000140,Saket City Hospital Blood Bank,SOUTH DELHI,Delhi,O+,Plasma,0,pwa,synthetic_demo,true,2026-08-26 15:50:01
+UPD-000034,District Headquarters Hospital,EAST GODAVARI,Andhra Pradesh,B+,Plasma,15,pwa,synthetic_demo,true,2026-08-26 15:15:01
+UPD-000191,P.N.H Mahatma Budh Educational and Research Centre Blood Bank,SIWAN,Bihar,A-,Platelets,34,pwa,synthetic_demo,true,2026-08-27 02:01:06
+UPD-000273,Cooch Behar Municipality Hospital Blood Bank,Cooch Behar,West Bengal,B-,Packed Red Cells,15,pwa,synthetic_demo,true,2026-08-22 06:26:58
+UPD-000221,B.M. Birla Heart Research Centre Blood Bank,KOLKATA,West Bengal,O+,Platelets,37,sms,synthetic_demo,true,2026-08-27 00:17:14
+UPD-000047,Basavatarakam Indo-American Cancer Hospital and Research Institute Blood Bank,HYDERABAD,Telangana,AB-,Packed Red Cells,25,pwa,synthetic_demo,true,2026-08-27 05:26:33
+UPD-000190,Sri Lakshminarayana Institute of Medical Sciences Blood Bank,Puducherry,Puducherry,A+,Plasma,34,pwa,synthetic_demo,true,2026-08-27 04:36:29
+UPD-000055,Aishwarya Blood Bank,YAVATMAL,Maharashtra,B-,Plasma,40,pwa,synthetic_demo,true,2026-08-26 23:29:05
+UPD-000086,Singareni Collieries Co. Ltd,KHAMMAM,Telangana,A-,Platelets,33,pwa,synthetic_demo,true,2026-08-27 02:31:56
+UPD-000068,District Hospital Blood Bank,NORTH GOA,Goa,B-,Platelets,0,pwa,synthetic_demo,true,2026-08-26 21:14:05
+UPD-000289,Bhaskar Medical College and General Hospital Blood Bank,RANGAREDDY,Telangana,AB-,Whole Blood,9,pwa,synthetic_demo,true,2026-08-23 21:09:40
+UPD-000153,Modern Pathology and Blood Bank,GHAZIABAD,Uttar Pradesh,AB-,Platelets,36,pwa,synthetic_demo,true,2026-08-27 08:57:00
+UPD-000243,Indian Red Cross Society Blood Bank,ADILABAD,Telangana,AB+,Packed Red Cells,2,sms,synthetic_demo,true,2026-08-27 07:16:34
+UPD-000168,General Hospital Rewari Blood Bank,REWARI,Haryana,O+,Platelets,39,pwa,synthetic_demo,true,2026-08-27 00:14:26
+UPD-000018,Military Hospital Blood Bank,AHMEDABAD,Gujarat,B+,Plasma,13,sms,synthetic_demo,true,2026-08-27 02:51:02
+UPD-000072,Hind Blood Bank And Component Center,SITAPUR,Uttar Pradesh,B-,Platelets,16,pwa,synthetic_demo,true,2026-08-27 05:12:39
+UPD-000080,JNIMS Hospital Blood Bank and Transfusion Unit,IMPHAL EAST,Manipur,AB+,Platelets,28,pwa,synthetic_demo,true,2026-08-27 02:27:53
+UPD-000281,Shivam Hospital Blood Bank,HOSHIARPUR,Punjab,A-,Plasma,41,pwa,synthetic_demo,true,2026-08-24 13:50:32
+UPD-000116,Holy Cross Hospital Blood Bank,CHAMARAJANAGAR,Karnataka,AB-,Whole Blood,23,sms,synthetic_demo,true,2026-08-26 20:16:02
+UPD-000164,"Heavy Engineering Corporation, Plant Hospital Blood Bank",RANCHI,Jharkhand,B-,Platelets,15,sms,synthetic_demo,true,2026-08-26 20:38:41
+UPD-000161,Saroj Super Speciality Hospital  Blood Bank,NORTH WEST DELHI,Delhi,A+,Packed Red Cells,4,pwa,synthetic_demo,true,2026-08-27 03:48:45
+UPD-000094,Life Line Blood Bank,PATNA,Bihar,B-,Whole Blood,22,pwa,synthetic_demo,true,2026-08-26 23:37:03
+UPD-000208,"Odisha Red Cross Blood Bank, Dhenkanal",DHENKANAL,Odisha,AB-,Plasma,11,sms,synthetic_demo,true,2026-08-27 05:13:12
+UPD-000071,Government Multispeciality Hospital Blood Bank,CHANDIGARH,Chandigarh,O+,Platelets,5,pwa,synthetic_demo,true,2026-08-26 17:27:41
+UPD-000169,General Hospital Rewari Blood Bank,REWARI,Haryana,AB-,Plasma,33,pwa,synthetic_demo,true,2026-08-26 13:02:12
+UPD-000288,Jeevan Rekha Charitable Blood Bank,PILIBHIT,Uttar Pradesh,O+,Plasma,28,pwa,synthetic_demo,true,2026-08-24 14:59:23
+UPD-000095,Pushpawati Singhania Research Institute Blood bank,NEW DELHI,Delhi,AB-,Packed Red Cells,29,sms,synthetic_demo,true,2026-08-26 21:58:34
+UPD-000186,Velammal Medical College Hospital and Reserach Institute Blood Bank,MADURAI,Tamil Nadu,O+,Whole Blood,18,pwa,synthetic_demo,true,2026-08-26 19:10:27
+UPD-000100,Government Head Quarters Hospital Blood Bank,TIRUPPUR,Tamil Nadu,B-,Plasma,43,pwa,synthetic_demo,true,2026-08-27 10:36:39
+UPD-000083,District Hospital Blood Bank,BHIND,Madhya Pradesh,B+,Whole Blood,40,pwa,synthetic_demo,true,2026-08-27 01:30:08
+UPD-000059,Ramana Gounder Medical Trust Hospital Blood Bank,COIMBATORE,Tamil Nadu,B+,Whole Blood,16,pwa,synthetic_demo,true,2026-08-27 02:46:20
+UPD-000037,Mother Hospital Blood Bank,THRISSUR,Kerala,A+,Whole Blood,27,pwa,synthetic_demo,true,2026-08-26 17:30:11
+UPD-000148,"ESI-PGIMSR, MGM Hospital Blood Bank",MUMBAI,Maharashtra,O-,Plasma,43,pwa,synthetic_demo,true,2026-08-27 09:27:13
+UPD-000003,Jeevan Dhara Blood Bank,FIROZABAD,Uttar Pradesh,B+,Whole Blood,1,pwa,synthetic_demo,true,2026-08-27 00:49:01
+UPD-000007,Indian Red Cross Society Blood Bank Chikkaballapur,Chikkaballapur,Karnataka,B+,Platelets,5,pwa,synthetic_demo,true,2026-08-26 20:05:03
+UPD-000160,Saroj Super Speciality Hospital  Blood Bank,NORTH WEST DELHI,Delhi,A-,Whole Blood,10,pwa,synthetic_demo,true,2026-08-26 13:16:59
+UPD-000233,Bangalore Lions Service Trust - Lions Blood Bank,BENGALURU URBAN,Karnataka,AB+,Platelets,15,sms,synthetic_demo,true,2026-08-27 07:22:07
+UPD-000231,M/s Sunflag Hospital and Research Centre Blood Bank,FARIDABAD,Haryana,B+,Whole Blood,21,sms,synthetic_demo,true,2026-08-26 22:44:00
+UPD-000065,Government Head Quarters Hospital Blood Bank,CUDDALORE,Tamil Nadu,A-,Platelets,43,pwa,synthetic_demo,true,2026-08-27 09:21:25
+UPD-000105,Agrawal Life Line Hospital and Trauma Centre Blood Bank,MATHURA,Uttar Pradesh,B+,Whole Blood,28,sms,synthetic_demo,true,2026-08-26 17:17:36
+UPD-000181,Neyveli Lignite Corporation,CUDDALORE,Tamil Nadu,A-,Whole Blood,41,pwa,synthetic_demo,true,2026-08-26 17:51:37
+UPD-000216,Lokpriya Hospital Blood Bank,MEERUT,Uttar Pradesh,O+,Whole Blood,12,pwa,synthetic_demo,true,2026-08-26 22:04:16
+UPD-000206,District Hospital Blood Bank Baloda Bazar,BALOD,Chhattisgarh,A+,Whole Blood,38,sms,synthetic_demo,true,2026-08-26 22:18:08
+UPD-000247,HAL Hospital Blood Bank,KORAPUT,Odisha,O+,Packed Red Cells,25,sms,synthetic_demo,true,2026-08-27 08:25:28
+UPD-000052,B.R. Singh Hospital Blood Bank,KOLKATA,West Bengal,B+,Packed Red Cells,37,sms,synthetic_demo,true,2026-08-27 08:44:14
+UPD-000158,Plasma Diagnostic Lab and Blood Bank,THANE,Maharashtra,A-,Plasma,39,pwa,synthetic_demo,true,2026-08-27 09:22:33
+UPD-000205,Raj Blood Bank Society,BHARATPUR,Rajasthan,A-,Packed Red Cells,4,sms,synthetic_demo,true,2026-08-27 01:35:32
+UPD-000254,Manas Serological Institute Blood Bank,MUMBAI,Maharashtra,AB-,Platelets,14,pwa,synthetic_demo,true,2026-08-27 07:55:53
+UPD-000126,Government General Hospital Blood Bank,SIROHI,Rajasthan,A+,Platelets,0,pwa,synthetic_demo,true,2026-08-26 17:22:01
+UPD-000136,Kannur Medical college and Hospital (Prestige educational Trust) Blood Bank,KANNUR,Kerala,O+,Packed Red Cells,11,pwa,synthetic_demo,true,2026-08-26 15:00:35
+UPD-000268,Saint Ann&#39;s Hospital Blood Bank,KRISHNA,Andhra Pradesh,A+,Packed Red Cells,0,pwa,synthetic_demo,true,2026-08-24 07:16:47
+UPD-000187,Velammal Medical College Hospital and Reserach Institute Blood Bank,MADURAI,Tamil Nadu,AB+,Packed Red Cells,38,pwa,synthetic_demo,true,2026-08-27 04:15:25
+UPD-000271,Fortis Memorial Research Institute Blood Bank,GURGAON,Haryana,O-,Plasma,10,pwa,synthetic_demo,true,2026-08-23 20:01:56
+UPD-000108,Index Medical College Hospital and Research Centre Blood Bank,INDORE,Madhya Pradesh,O-,Packed Red Cells,41,pwa,synthetic_demo,true,2026-08-27 03:11:29
+UPD-000006,Synod Hospital Blood Bank Durtlang,AIZAWL,Mizoram,O-,Whole Blood,28,pwa,synthetic_demo,true,2026-08-26 23:12:46
+UPD-000239,Mohit Blood Bank Services,INDORE,Madhya Pradesh,A-,Whole Blood,9,pwa,synthetic_demo,true,2026-08-26 19:07:05
+UPD-000264,K M C T Hospital Blood Bank,KOZHIKODE,Kerala,A+,Packed Red Cells,39,pwa,synthetic_demo,true,2026-08-27 02:08:58
+UPD-000033,District Headquarters Hospital,EAST GODAVARI,Andhra Pradesh,AB-,Plasma,6,pwa,synthetic_demo,true,2026-08-26 19:15:23
+UPD-000159,District Combined Hospital Blood Bank,BAGHPAT,Uttar Pradesh,B-,Packed Red Cells,2,sms,synthetic_demo,true,2026-08-26 16:40:09
+UPD-000013,Sri Saanthi Blood Bank (Run by Kaveri trust),ERODE,Tamil Nadu,A+,Platelets,38,pwa,synthetic_demo,true,2026-08-27 09:31:33
+UPD-000184,Rotary Mysore Chandrakala Hospital Blood Bank,Mysore,Karnataka,O+,Packed Red Cells,27,pwa,synthetic_demo,true,2026-08-27 08:51:33
+UPD-000139,Share Medical Care (Mediciti Hospital) Blood Bank,HYDERABAD,Telangana,B+,Whole Blood,13,pwa,synthetic_demo,true,2026-08-26 14:10:50
+UPD-000039,KEM Hospital Blood Bank,PUNE,Maharashtra,B+,Packed Red Cells,31,pwa,synthetic_demo,true,2026-08-26 22:28:24
+UPD-000061,Indian Red Cross Society - Sarjubai Bansila Bajaj Blood Bank,SOLAPUR,Maharashtra,A-,Whole Blood,12,pwa,synthetic_demo,true,2026-08-26 22:40:38
+UPD-000276,Medical College Hospital Blood Bank,THRISSUR,Kerala,A+,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-25 05:35:13
+UPD-000087,Sadar Hospital Muzaffarpur Blood Bank,MUZAFFARPUR,Bihar,O+,Platelets,35,pwa,synthetic_demo,true,2026-08-26 14:35:12
+UPD-000014,Cumbala Hill Hospital And Heart Institute Blood Bank,MUMBAI,Maharashtra,A-,Packed Red Cells,39,pwa,synthetic_demo,true,2026-08-26 20:38:49
+UPD-000091,Borivali Blood Bank (Doshi Memorial Charitable Trust),MUMBAI,Maharashtra,A+,Packed Red Cells,30,pwa,synthetic_demo,true,2026-08-27 05:51:15
+UPD-000025,Rajpura Civil Hospital Blood Bank,PATIALA,Punjab,B+,Packed Red Cells,29,pwa,synthetic_demo,true,2026-08-27 07:13:36
+UPD-000227,"Sardar Patel voulantary Blood Bank, Keshod",JUNAGADH,Gujarat,O+,Whole Blood,2,sms,synthetic_demo,true,2026-08-26 20:12:11
+UPD-000128,Government General Hospital Blood Bank,SIROHI,Rajasthan,O-,Platelets,45,pwa,synthetic_demo,true,2026-08-27 11:16:17
+UPD-000149,Melmaruvathur Adiparasakthi Institute of Medical Sciences and Research Blood Bank,VILLUPURAM,Tamil Nadu,A+,Packed Red Cells,33,pwa,synthetic_demo,true,2026-08-27 00:22:51
+UPD-000097,AIIMS Rishikesh,DEHRADUN,Uttarakhand,O+,Plasma,15,sms,synthetic_demo,true,2026-08-27 00:40:30
+UPD-000142,Saket City Hospital Blood Bank,SOUTH DELHI,Delhi,A+,Plasma,26,pwa,synthetic_demo,true,2026-08-27 07:58:10
+UPD-000130,Saint Josephs Hospital Blood Bank,THRISSUR,Kerala,A-,Plasma,20,pwa,synthetic_demo,true,2026-08-27 06:54:06
+UPD-000282,Vaidhya Blood Bank,THANE,Maharashtra,B+,Platelets,26,pwa,synthetic_demo,true,2026-08-24 05:45:45
+UPD-000111,District Hospital Blood Bank,BALLIA,Uttar Pradesh,O+,Plasma,42,pwa,synthetic_demo,true,2026-08-26 21:54:58
+UPD-000030,"National Blood Bank, Kharab Hospital Blood Bank",HISAR,Haryana,B+,Plasma,5,pwa,synthetic_demo,true,2026-08-27 02:15:50
+UPD-000286,Kishtwar District Hospital Blood Bank,KISHTWAR,Jammu and Kashmir,O-,Whole Blood,19,pwa,synthetic_demo,true,2026-08-23 07:20:43
+UPD-000203,District Hospital Blood Bank,DIMAPUR,Nagaland,B-,Platelets,17,sms,synthetic_demo,true,2026-08-27 03:07:06
+UPD-000287,Yanam Old Age Home Blood Bank,Puducherry,Puducherry,AB+,Packed Red Cells,9,pwa,synthetic_demo,true,2026-08-20 14:16:59

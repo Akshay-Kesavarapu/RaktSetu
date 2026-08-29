@@ -1,0 +1,56 @@
+{
+  "scenarios": [
+    {
+      "id": "offline_submission",
+      "title": "Offline Stock Submission",
+      "description": "Staff submits O+ Whole Blood update while offline. Update is queued in IndexedDB. On reconnect, auto-syncs to backend.",
+      "steps": [
+        "Disable network in DevTools",
+        "Navigate to /report",
+        "Select bank: Apollo Hospital Blood Bank, Mumbai",
+        "Select blood group: O+",
+        "Select component: Whole Blood",
+        "Enter units: 12",
+        "Submit — SyncStatus shows 'Queued (offline)'",
+        "Re-enable network",
+        "SyncStatus auto-updates to 'Synced ✓'"
+      ]
+    },
+    {
+      "id": "sms_webhook",
+      "title": "SMS Stock Update via Webhook",
+      "description": "Simulates a staff member sending an SMS that is parsed and stored via the webhook endpoint.",
+      "steps": [
+        "POST /api/sms/webhook with body: From=+919876543210&Body=O%2B+WB+15&To=+1234567890",
+        "Backend parses: blood_group=O+, component=Whole Blood, units=15",
+        "stock_service.update_stock() called with source=sms",
+        "Response: TwiML XML with confirmation message",
+        "GET /api/stock/search?blood_group=O%2B to confirm update appears"
+      ]
+    },
+    {
+      "id": "no_result_search",
+      "title": "Search with No Results",
+      "description": "User searches for AB- Cryoprecipitate near a location with no stock — graceful empty state shown.",
+      "steps": [
+        "Navigate to /search",
+        "Select blood group: AB-",
+        "Select component: Cryoprecipitate",
+        "Set radius: 10km",
+        "Set location to remote coordinates (e.g., lat=20.0, lon=80.0)",
+        "Result: empty state with message and 'Expand search radius' prompt"
+      ]
+    },
+    {
+      "id": "stale_bank_dashboard",
+      "title": "Stale Bank Detection on Dashboard",
+      "description": "Dashboard highlights banks that have not reported in 24+ hours.",
+      "steps": [
+        "Navigate to /dashboard",
+        "Observe 'Silent Banks' metric card showing count",
+        "Observe map markers in dash-stale (#DA3633) red for stale banks",
+        "Observe table listing stale banks with last-reported timestamp"
+      ]
+    }
+  ]
+}
